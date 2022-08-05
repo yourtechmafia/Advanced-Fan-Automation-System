@@ -19,3 +19,5 @@ Here are the list of modules used in this project:
 * LCD 1602 (16 x 2 LCD) for data display.
 * ACS712 current module.
 * Resistive Voltage Divider Analog circuit for analog voltage measurement.
+
+Fork all necessary Arduino libraries for this project from (https://github.com/yourtechmafia/Awesome-Arduino-Libraries).
